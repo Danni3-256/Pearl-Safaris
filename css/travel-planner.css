@@ -1,0 +1,69 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #22c15e;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .itinerary-form {
+    margin-bottom: 40px;
+  }
+  
+  .itinerary-form h2,
+  .chatbot h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  form {
+    /* Form styling here */
+  }
+  
+  .chatbot {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
+  #chat-container {
+    height: 300px;
+    overflow-y: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  #user-input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  #send-button {
+    background-color: #22c15e;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 10px;
+  }
+  
